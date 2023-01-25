@@ -1,0 +1,45 @@
+.container-card{
+    width: 900px;
+    height: 300px;
+    background-color: rgb(218, 218, 218);
+    background-image: linear-gradient(to right, rgb(120, 170, 245), rgb(53, 124, 255));
+    margin: 0% auto;
+    margin-top: 2em;
+}
+
+.collapse{
+    position: relative;
+    left: 530px;
+}
+
+.nama{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.col-md-8{
+    border-left: solid 1px rgb(255, 255, 255);
+    background-color: rgba(238, 238, 238, 0.377);
+}
+
+.col-md-7{
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.rounded-circle{
+    border: solid 1px rgb(0, 0, 0);
+    position: relative;
+    left: 5px;
+}
+
+.isi{
+    margin-bottom: 1em;
+}
+
+.abt{
+    margin-top: 20px;
+}
